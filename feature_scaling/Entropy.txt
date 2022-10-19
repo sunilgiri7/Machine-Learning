@@ -1,0 +1,10 @@
+Introduction to Entropy in Machine Learning
+Entropy is defined as the randomness or measuring the disorder of the information being processed in Machine Learning. Further, in other words, we can say that entropy is the machine learning metric that measures the unpredictability or impurity in the system.
+
+
+
+What is Entropy in Machine Learning
+Entropy is the measurement of disorder or impurities in the information processed in machine learning. It determines how a decision tree chooses to split data.
+
+Entropy in Machine Learning
+We can understand the term entropy with any simple example: flipping a coin. When we flip a coin, then there can be two outcomes. However, it is difficult to conclude what would be the exact outcome while flipping a coin because there is no direct relation between flipping a coin and its outcomes. There is a 50% probability of both outcomes; then, in such scenarios, entropy would be high. This is the essence of entropy in machine learning.
